@@ -1,0 +1,135 @@
+<! DOCTYPE html >
+< html  lang = " pt-br " >
+  < cabeça >
+  <! - fontes do google ->
+  < link  rel = " preconnect " href = " https://fonts.gstatic.com " >
+< link  href = " https://fonts.googleapis.com/css2?family=Pattaya&display=swap " rel = " stylesheet " >
+
+    <! - Meta tags Obrigatórias ->
+    < meta  charset = " utf-8 " >
+    < meta  name = " viewport " content = " width = device-width, initial-scale = 1, shrink-to-fit = no " >
+
+    <! - CSS de inicialização ->
+    < Vínculo  rel = " stylesheet " href =" https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css " integridade =" SHA384-MCw98 / SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO " crossorigin =" anonymous " >
+
+    < title > Meu primeiro bootstrap! </ title >
+	<! - link dos arquivos css do bootstrap ->
+	< link  href = " css / bootstrap.css " rel = " stylesheet " >
+	< link  href = " css / bootstrap-reboot.css " rel = " stylesheet " >
+	< link  href = " css / bootstrap-grid.css " rel = " stylesheet " >
+	
+	    < link  rel = " stylesheet " href = " css / estilo.css " >
+	
+	<! - vínculo externo de JS ->
+	< script  src = " js / bootstrap.js " > </ script >
+  </ head >
+  < corpo >
+	< section  class = " container-fluid " >
+		< header  class = " jumbotron " >
+			< h1 > Turismo ViagemTur </ h1 >
+		</ header >
+
+	< nav  style = " background: #ccc; margin-top: -40px; " > Barra de navegação </ nav >
+
+< nav  class = " navbar navbar-expand-lg navbar-light " style = " background-color: # 1E90FF; " >
+  < A  class = " navbar-brand " href =" # " > menu </ a >
+  < button  class = " navbar-toggler " type = " button " data-toggle = " recolher " data-target = " #navbarNav " aria-controls = " navbarNav " aria- extended = " false " aria-label = " Alterna navegação " >
+    < span  class = " navbar-toggler-icon " > </ span >
+  </ botão >
+  < div  class = " collapse navbar-collapse " id = " navbarNav " >
+    < ul  class = " navbar-nav " >
+      < li  class = " nav-item active " >
+        < A  class = " nav-link " href =" # " > Viagens < extensão  class =" sr-only " > (Página Atual) </ palmo > </ a >
+      </ li >
+      < li  class = " nav-item " >
+        < A  class = " nav-link " href =" # " > Destaques </ a >
+      </ li >
+      < li  class = " nav-item " >
+        < A  class = " nav-link " href =" # " > Preços </ a >
+      </ li >
+      < li  class = " nav-item " >
+        < A  class = " nav-link " href =" # " > Pacotes de Viagens </ a >
+      </ li >
+    </ ul >
+  </ div >
+</ nav >
+< principal >
+< Br >
+< Br >
+< Br >
+		< h2 > Venha Viajar Conosco! </ h2 >
+		< hr >
+		< Br >
+		< table  class = " table table-success table-hover " >
+		<! - cabeçalho é cabeçalho ->
+  < thead  class = " thead-dark " >
+    < tr >
+      < th  scope = " col " > # </ th >
+      < th  scope = " col " > País </ th >
+      < th  scope = " col " > Viagem / Avião </ th >
+      < th  scope = " col " > Viagem / Navio </ th >
+    </ tr >
+  </ thead >
+  <! - tbody é o corpo da tabela ->
+  < tbody >
+    < tr >
+      < th  scope = " row " > 1 </ th >
+      < td > Irlanda </ td >
+      < td > R $ 3,264 </ td >
+      < td > R $ 6.891,00 </ td >
+    </ tr >
+    < tr >
+      < th  scope = " row " > 2 </ th >
+      < td > Inglaterra </ td >
+      < td > R $ 4,264 </ td >
+      < td > R $ 7.891,00 </ td >
+    </ tr >
+    < tr >
+      < th  scope = " row " > 3 </ th >
+      < td > Escócia </ td >
+      < td > R $ 2,264 </ td >
+      < td > R $ 5.891,00 </ td >
+    </ tr >
+  </ tbody >
+</ mesa >
+< seção  id = " empresa " class = " container-fluid " >
+< div  class = " row " >
+< aparte  class = " bg-info text-white col-md-4 col-sm-6 col-xs-12 " >
+< h2  text-align = " center " color = " text-white: 700 " > Inglaterra </ h2 >
+< p  text-align = " justify " > A Inglaterra se situa na ilha da Grã-Bretanha, que fica perto da costa da Europa ocidental. A Escócia fica no norte da ilha, e o País de Gales, no oeste. O canal da Mancha separa a Inglaterra da França.
+Boa parte da Inglaterra é coberta por colinas. Os montes Cambrianos ficam no nordeste e incluem o pico Scafell, que, com 978 metros de altura, é o ponto mais elevado da Inglaterra. Os Peninos, uma cadeia de montanhas baixas, cruzam o país do norte ao centro. As regiões costeiras têm falésias e baías.O rio mais longo da Inglaterra é o Tâmisa, que atravessa grande parte do sudeste. Outros rios grandes são o Severn e o Trent. A Inglaterra tem poucos lagos de destaque. O maior deles, Windermere, fica em uma área chamada Lake District, ou Distrito dos Lagos, no noroeste. </ p >
+< p  text-align = " justify " > Apenas uma pequena parte do território da Inglaterra é coberta por florestas. Muitas árvores originais foram derrubadas centenas de anos atrás, para o cultivo da terra; outras foram consumidas nas indústrias do ferro e da construção naval. As árvores originais consistiam principalmente de carvalhos, faias, freixos e olmos. Abetos, lariços e pinheiros, de crescimento rápido, foram plantados para substituir essas árvores. No norte e no sudoeste, há urzes, samambaias e gramíneas, dentre elas a grama de algodão. Essas áreas, pouco férteis, geralmente são usados ​​para o pasto de ovelhas. </ p >
+< ptext-align = "justify" > A população da Inglaterra é uma mistura de diferentes grupos étnicos, originários principalmente da Europa (Alemanha, Dinamarca e França). Os primeiros a habitar a região foram os celtas. Depois, com as invasões, compara os alemães, os dinamarqueses e os franceses. Há também pessoas vindas de outros países da Europa, da Ásia, da África e das ilhas do Caribe .. </ p >
+</ aparte >
+< aparte  class = " bg-primary text-white col-md-4 col-sm-6 col-xs-12 " >
+
+< h2 > Segundo Container-coluna </ h2 >
+< p > Os Países Baixos (em neerlandês: Nederland AFI: [ˈneːdərˌlɑnt] (Sobre este somescutar (ajuda·info)), literalmente "país baixo"), conhecidos informalmente como Holanda[8] (ver abaixo), são uma nação constituinte do Reino dos Países Baixos localizada na Europa ocidental. O país é uma monarquia constitucional parlamentar democrática banhada pelo mar do Norte a norte e a oeste, que faz fronteira com a Bélgica a sul e com a Alemanha a leste. A capital é Amesterdão (português europeu) ou Amsterdã (português brasileiro) e a sede do governo é a cidade da Haia.
+. </ p >
+< p > Geograficamente, os Países Baixos são um país de baixa altitude, com cerca de 27% de sua área e 60% de sua população situados abaixo do nível do mar.[9][10] Uma significativa parte de seu território foi obtida através da recuperação e preservação de terras através de um elaborado sistema de pôlderes e diques. Grande parte dos Países Baixos é formada por um grande delta, o delta do Reno e Mosa.
+. </ p >
+< p > Os Países Baixos são um país densamente povoado que é conhecido por seus moinhos de vento, tulipas, tamancos, cerâmica de Delft, queijo gouda, artistas visuais, bicicletas e, além disso, pelos valores tradicionais e virtudes civis, tais como a sua tolerância social, tendo se tornado conhecido por sua política liberal em relação as drogas, prostituição, eutanásia e aborto. É um dos países com melhor qualidade de vida do mundo, fator pelo qual possui um dos melhores Índices de Desenvolvimento Humano da Europa e do mundo, segmentado em sua forte política de assistência social e direitos considerados essenciais, como educação, saúde e segurança de qualidade, garantidos em nível máximo a seus habitantes. O país possui uma das economias capitalistas mais livres do mundo — 13ª posição entre 180 países de acordo com o Índice de Liberdade Econômica em 2019. </ p >
+</ aparte >
+< figura  class = " col-md-4 col-sm-12 col-xs-12 " >
+< img  src = " img / inglaterra.jpg " alt = " logo inglaterra " class = " img-responsive " style = " width: 100% " >
+< Br >
+< img  src = " img / ingla2.jpg " alt = " logo holanda " class = " img-responsive " style = " width: 100% " >
+< Br >
+< img  src = " img / ingla3.jpg " alt = " logo holanda " class = " img-responsive " style = " width: 100% " >
+< Br >
+< img  src = " img / ingla4.jpg " alt = " logo holanda " class = " img-responsive " style = " width: 100% " >
+</ figura >
+</ div >
+</ seção >
+
+< footer  class = " rodape " background-color = " black " >
+        < p > Direitos autorais e cópia; Titular do Copyright 2020 - todos os direitos reservados </ p >
+      </ rodapé >
+    <! - JavaScript (opcional) ->
+    <! - jQuery primeiro, depois Popper.js, depois Bootstrap JS ->
+    < Roteiro  src = " https://code.jquery.com/jquery-3.3.1.slim.min.js " integridade =" SHA384-Q8i / X + 965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH + 8abtTE1Pi6jizo " crossorigin =" anonymous " > </ script de >
+    < Roteiro  src = " https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integridade =" SHA384-ZMP7rVo3mIykV + 2 + 9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK / l8WvCWPIPm49 " crossorigin = " anônimo " > </ script >
+    < Roteiro  src = " https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integridade =" SHA384-ChfqqxuZUCnJSK3 + MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW / JmZQ5stwEULTy " crossorigin =" anonymous " > </ script de >
+	</ main >
+  </ body>
+</ html >

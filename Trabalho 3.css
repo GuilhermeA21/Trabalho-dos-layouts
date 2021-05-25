@@ -1,0 +1,86 @@
+! DOCTYPE html >
+< html  lang = " pt-br " >
+  < cabeça >
+    <! - Meta tags Obrigatórias ->
+    < meta  charset = " utf-8 " >
+    < meta  name = " viewport " content = " width = device-width, initial-scale = 1, shrink-to-fit = no " >
+
+    <! - CSS de inicialização ->
+    < Vínculo  rel = " stylesheet " href =" https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css " integridade =" SHA384-MCw98 / SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO " crossorigin =" anonymous " >
+
+     < title > Layout GRID </ title >
+	<! - link dos arquivos css do bootstrap ->
+	< link  href = " css / bootstrap.css " rel = " stylesheet " >
+	< link  href = " css / bootstrap-reboot.css " rel = " stylesheet " >
+	< link  href = " css / bootstrap-grid.css " rel = " stylesheet " >
+	
+	< link  rel = " stylesheet " href = " css / estilo2.css " >
+	
+  </ head >
+  < corpo >
+			< section  class = " container-fluid " >
+				< cabeçalho  margem esquerda = automático;  margem direita = automático;  class = " jumbotron " >
+				< h1 > SOFTBLUE </ h1 >
+				</ header >
+				
+				
+				< nav  class = " navbar navbar-dark bg-primary " style = " background-color: #ABC; border-color: # 000; margin: -20px;>
+					<a class= "navbar-brand" href=" # "> menu </ a >
+						< button  class = " navbar-toggler " type = " button " data-toggle = " collapse " data-target = " #navbarNavAltMarkup " aria-controls = " navbarNavAltMarkup " aria- extended = " false " aria-label = " Alterna navegação " >
+							< span  class = " navbar-toggler-icon " > </ span >
+						</ botão >
+						< div  class = " collapse navbar-collapse " id = " navbarNavAltMarkup " >
+							< div  class = " navbar-nav " >
+								< A  class = " nav-item de nav-link ativo " href =" # " > Início </ a >
+								< A  class = " nav-link nav-ponto " href =" # " > Produtos </ a >
+								< A  class = " nav-link nav-ponto " href =" # " > Preços </ a >
+								< A  class = " nav-link nav-ponto " href =" # " > Contato </ a >
+							</ div >
+						</ div >
+				</ nav >
+			< Br >
+			< Br >
+			< Br >
+
+				< div  class = " container " >
+					< div  class = " row " >
+						< div  class = " col border " > < img  src = " img / pc1.jpg " > </ div >
+						< div  class = " col border " > < p > Computador é um conjunto de componentes eletrônicos (máquina) capaz de executar variados tipos de algoritmos e tratamento de informações (processamento de dados) .Um computador pode possuir inúmeros atributos, dentre eles bloco de dados, processamento de dados, cálculo em grande escala, desenho industrial, tratamento de imagens gráficas, realidade virtual, entretenimento e cultura. </ p > </ div >
+						< div  class = " w-100 " > </ div >
+						< div  class = " col border " > < img  src = " img / pc2.jpg " > </ div >
+					< div  class = " col border " > < p > Assumiu-se que os computadores pessoais e laptops são ícones da Era da Informação; e isto é o que muitas pessoas consideram como "computador". Entretanto, atualmente as formas mais comuns de computador em uso são os sistemas embarcados, pequenos dispositivos usados ​​para controlar outros dispositivos, como robôs, digitais ou brinquedos. </ p > </ div >
+				</ div >
+			</ div >
+			
+			< Br >
+			< hr >
+			< Br >
+			< Br >
+			< div  class = " cont " >
+			< div  class = " row " >
+				< div  class = " col-sm-6 border " > < img  class = " a " src = " img / pc5.jpg " > </ div >
+					< div  class = " col-sm-6 border " > < img   class = " a " src = " img / pc6.jpg " > </ div >
+				</ div >
+				< div  class = " row " >
+					< div  class = " col-sm border " > < img  class = " a " src = " img / pc7.jpg " > </ div >
+						< div  class = " col-sm border " > < img  class = " a " src = " img / pc8.jpg " > </ div >
+						< div  class = " col-sm border " > < img  class = " a " src = " img / pc3.jpg " > </ div >
+					</ div >
+					</ div >
+
+			< Br >
+			< Br >
+			< Br >
+					< footer  class = " rodape " background-color = " black " >
+						< p > Copyright & copy; titular do Copyright 2020 Todos os direitos reservados </ p >
+					</ rodapé >
+
+
+
+    <! - JavaScript (opcional) ->
+    <! - jQuery primeiro, depois Popper.js, depois Bootstrap JS ->
+    < Roteiro  src = " https://code.jquery.com/jquery-3.3.1.slim.min.js " integridade =" SHA384-Q8i / X + 965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH + 8abtTE1Pi6jizo " crossorigin =" anonymous " > </ script de >
+    < Roteiro  src = " https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integridade =" SHA384-ZMP7rVo3mIykV + 2 + 9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK / l8WvCWPIPm49 " crossorigin = " anônimo " > </ script >
+    < Roteiro  src = " https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integridade =" SHA384-ChfqqxuZUCnJSK3 + MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW / JmZQ5stwEULTy " crossorigin =" anonymous " > </ script de >
+  </ body >
+</ html >
